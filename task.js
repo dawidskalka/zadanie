@@ -54,3 +54,6 @@ console.log(newEvents);
 events.shift()
 console.log("dlugosc tablicy po usunieciu pierwszego elementu: " + events.length)
 events.forEach(date => console.log("data wydarzen: " + date.date));
+//z7
+console.log("dlugosc tablicy po usunieciu pierwszego elementu: " + events.length)
+events.forEach(nazwa => console.log("data wydarzen: " + nazwa.name));
